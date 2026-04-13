@@ -3,6 +3,8 @@
 
 ## Postman Docs Link : https://documenter.getpostman.com/view/49477121/2sBXitCSp4
 
+## Github Repo Link : https://github.com/Aman-webDev-2025/Visitor-Pass-Management-System-
+
 
 ## Project Structure
 
@@ -27,7 +29,7 @@ Go to backend folder:
   npm start
 
 
-### 2. Frontend : 
+### 2. Frontend : https://pass-management.netlify.app/
 
 Go to frontend folder:
 
